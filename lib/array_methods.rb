@@ -10,7 +10,8 @@ end
 def using_sort(array)
 #takes in an argument of an array and returns the sorted array.
 #["wow", "I", "am", "really", "learning", "arrays!"]
-binding.pry
+array.sort
+#binding.pry
 
 end
 
